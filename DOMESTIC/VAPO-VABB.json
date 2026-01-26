@@ -1,1 +1,105 @@
-[{"ident":"VAPO","type":"DPT","lat":18.58306,"lon":73.90639,"alt":0,"heading":94},{"ident":"PPN","type":"VOR","lat":18.58456,"lon":73.91244,"alt":3400},{"ident":"T_O_C","type":"FIX","lat":18.64217,"lon":73.78567,"alt":10000},{"ident":"T_O_D","type":"FIX","lat":18.72843,"lon":73.59535,"alt":10000},{"ident":"DOGAP","type":"WPT","lat":18.80917,"lon":73.41667,"alt":7700},{"ident":"BBB","type":"VOR","lat":19.08617,"lon":72.87469,"alt":2500},{"ident":"VABB","type":"DST","lat":19.08883,"lon":72.87608,"alt":0,"heading":270}]
+[
+  {
+    "ident": "VAPO",
+    "type": "DPT",
+    "lat": 18.58306,
+    "lon": 73.90639,
+    "alt": 0,
+    "heading": 94
+  },
+  {
+    "ident": "PPN",
+    "type": "VOR",
+    "lat": 18.58456,
+    "lon": 73.91244,
+    "alt": 3400
+  },
+  {
+    "ident": "T_O_C",
+    "type": "FIX",
+    "lat": 18.64217,
+    "lon": 73.78567,
+    "alt": 10000
+  },
+  {
+    "ident": "T_O_D",
+    "type": "FIX",
+    "lat": 18.72843,
+    "lon": 73.59535,
+    "alt": 10000
+  },
+  {
+    "ident": "DOGAP",
+    "type": "WPT",
+    "lat": 18.80917,
+    "lon": 73.41667,
+    "alt": 7700
+  },
+  {
+    "ident": "BBB",
+    "type": "VOR",
+    "lat": 19.08617,
+    "lon": 72.87469,
+    "alt": 2500
+  },
+  {
+    "ident": "VABB",
+    "type": "DST",
+    "lat": 19.08883,
+    "lon": 72.87608,
+    "alt": 0,
+    "heading": 270
+  }
+][
+  {
+    "ident": "VAPO",
+    "type": "DPT",
+    "lat": 18.58306,
+    "lon": 73.90639,
+    "alt": 0,
+    "heading": 94
+  },
+  {
+    "ident": "PPN",
+    "type": "VOR",
+    "lat": 18.58456,
+    "lon": 73.91244,
+    "alt": 3400
+  },
+  {
+    "ident": "T_O_C",
+    "type": "FIX",
+    "lat": 18.64217,
+    "lon": 73.78567,
+    "alt": 10000
+  },
+  {
+    "ident": "T_O_D",
+    "type": "FIX",
+    "lat": 18.72843,
+    "lon": 73.59535,
+    "alt": 10000
+  },
+  {
+    "ident": "DOGAP",
+    "type": "WPT",
+    "lat": 18.80917,
+    "lon": 73.41667,
+    "alt": 7700
+  },
+  {
+    "ident": "BBB",
+    "type": "VOR",
+    "lat": 19.08617,
+    "lon": 72.87469,
+    "alt": 2500
+  },
+  {
+    "ident": "VABB",
+    "type": "DST",
+    "lat": 19.08883,
+    "lon": 72.87608,
+    "alt": 0,
+    "heading": 270
+  }
+]V
