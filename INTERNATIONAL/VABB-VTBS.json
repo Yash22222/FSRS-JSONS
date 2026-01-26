@@ -1,1 +1,332 @@
-[{"ident":"VABB","type":"DPT","lat":19.08883,"lon":72.87608,"alt":0,"spd":"0","heading":270},{"ident":"MB364","type":"WPT","lat":19.08705,"lon":72.75121,"alt":6400,"spd":"400"},{"ident":"ANOLI","type":"WPT","lat":19.30108,"lon":72.73931,"alt":14300,"spd":"500"},{"ident":"XOPAL","type":"WPT","lat":19.46244,"lon":72.88978,"alt":20000,"spd":"500"},{"ident":"MB373","type":"WPT","lat":19.49863,"lon":73.06627,"alt":"25400","spd":"900"},{"ident":"MB365","type":"WPT","lat":19.56103,"lon":73.36186,"alt":"30700","spd":"1000"},{"ident":"SEKVI","type":"WPT","lat":19.59278,"lon":73.68417,"alt":"35200","spd":"1500"},{"ident":"KAKPO","type":"WPT","lat":19.76,"lon":74.01583,"alt":"35900","spd":"1500"},{"ident":"MB366","type":"WPT","lat":20.00415,"lon":74.69871,"alt":40400,"spd":"1500"},{"ident":"T_O_C","type":"FIX","lat":19.92032,"lon":75.11453,"alt":43000,"spd":"1500"},{"ident":"AAU","type":"VOR","lat":19.86108,"lon":75.40525,"alt":43000,"spd":"1800"},{"ident":"ASOGA","type":"WPT","lat":19.5425,"lon":76.83222,"alt":"45000","spd":"1800"},{"ident":"BEVSU","type":"WPT","lat":19.44694,"lon":77.25917,"alt":"45000","spd":"1800"},{"ident":"NUSRU","type":"WPT","lat":19.29528,"lon":77.92278,"alt":"45000","spd":"1800"},{"ident":"BUSBO","type":"WPT","lat":19.24944,"lon":78.125,"alt":"45000","spd":"1800"},{"ident":"MEPIP","type":"WPT","lat":18.52917,"lon":80.58056,"alt":"45000","spd":"1800"},{"ident":"MEPOK","type":"WPT","lat":18.07028,"lon":81.99833,"alt":"45000","spd":"1800"},{"ident":"VVZ","type":"VOR","lat":17.66883,"lon":83.25286,"alt":43000,"spd":"1800"},{"ident":"POTAS","type":"WPT","lat":17.5,"lon":83.92083,"alt":43000,"spd":"1500"},{"ident":"OLSOR","type":"WPT","lat":17.35833,"lon":84.5,"alt":43000,"spd":"1500"},{"ident":"DOGEM","type":"WPT","lat":17.16778,"lon":85.30611,"alt":43000,"spd":"1500"},{"ident":"URKOK","type":"WPT","lat":16.73667,"lon":87.15167,"alt":43000,"spd":"1500"},{"ident":"LEBIS","type":"WPT","lat":16.22694,"lon":89.2875,"alt":43000,"spd":"1500"},{"ident":"MABUR","type":"WPT","lat":16.01667,"lon":90.16833,"alt":43000,"spd":"1500"},{"ident":"RINDA","type":"WPT","lat":15.58333,"lon":92,"alt":43000,"spd":"1500"},{"ident":"SADUS","type":"WPT","lat":15.42806,"lon":92.63111,"alt":43000,"spd":"1500"},{"ident":"DWI","type":"VOR","lat":14.10056,"lon":98.2068,"alt":43000,"spd":"1500"},{"ident":"PUMOR","type":"WPT","lat":14.23899,"lon":98.72996,"alt":43000,"spd":"1200"},{"ident":"T_O_D","type":"FIX","lat":14.27399,"lon":98.86261,"alt":43000,"spd":"1000"},{"ident":"MIGAR","type":"WPT","lat":14.30625,"lon":98.98519,"alt":41100,"spd":"900"},{"ident":"IBETO","type":"WPT","lat":14.17671,"lon":99.49602,"alt":32900,"spd":"800"},{"ident":"WILLA","type":"WPT","lat":14.40472,"lon":100.05982,"alt":23200,"spd":"600"},{"ident":"BAROK","type":"WPT","lat":14.37175,"lon":100.19184,"alt":21100,"spd":"600"},{"ident":"BS510","type":"WPT","lat":14.33488,"lon":100.33912,"alt":18700,"spd":"500"},{"ident":"INVEK","type":"WPT","lat":14.29896,"lon":100.4822,"alt":16300,"spd":"500"},{"ident":"BS508","type":"WPT","lat":14.25029,"lon":100.67549,"alt":13100,"spd":"500"},{"ident":"BS506","type":"WPT","lat":14.0727,"lon":100.62877,"alt":10100,"spd":"390"},{"ident":"BS504","type":"WPT","lat":13.99261,"lon":100.60773,"alt":8800,"spd":"300"},{"ident":"BS502","type":"WPT","lat":13.96231,"lon":100.72358,"alt":6900,"spd":"300"},{"ident":"WALTZ","type":"WPT","lat":14.04334,"lon":100.74506,"alt":5600,"spd":"200"},{"ident":"VTBS","type":"DST","lat":13.69171,"lon":100.76103,"alt":0,"spd":"0","heading":194}]
+[
+  {
+    "ident": "VABB",
+    "type": "DPT",
+    "lat": 19.08883,
+    "lon": 72.87608,
+    "alt": 0,
+    "spd": "0",
+    "heading": 270
+  },
+  {
+    "ident": "MB364",
+    "type": "WPT",
+    "lat": 19.08705,
+    "lon": 72.75121,
+    "alt": 6400,
+    "spd": "400"
+  },
+  {
+    "ident": "ANOLI",
+    "type": "WPT",
+    "lat": 19.30108,
+    "lon": 72.73931,
+    "alt": 14300,
+    "spd": "500"
+  },
+  {
+    "ident": "XOPAL",
+    "type": "WPT",
+    "lat": 19.46244,
+    "lon": 72.88978,
+    "alt": 20000,
+    "spd": "500"
+  },
+  {
+    "ident": "MB373",
+    "type": "WPT",
+    "lat": 19.49863,
+    "lon": 73.06627,
+    "alt": "25400",
+    "spd": "900"
+  },
+  {
+    "ident": "MB365",
+    "type": "WPT",
+    "lat": 19.56103,
+    "lon": 73.36186,
+    "alt": "30700",
+    "spd": "1000"
+  },
+  {
+    "ident": "SEKVI",
+    "type": "WPT",
+    "lat": 19.59278,
+    "lon": 73.68417,
+    "alt": "35200",
+    "spd": "1500"
+  },
+  {
+    "ident": "KAKPO",
+    "type": "WPT",
+    "lat": 19.76,
+    "lon": 74.01583,
+    "alt": "35900",
+    "spd": "1500"
+  },
+  {
+    "ident": "MB366",
+    "type": "WPT",
+    "lat": 20.00415,
+    "lon": 74.69871,
+    "alt": 40400,
+    "spd": "1500"
+  },
+  {
+    "ident": "T_O_C",
+    "type": "FIX",
+    "lat": 19.92032,
+    "lon": 75.11453,
+    "alt": 43000,
+    "spd": "1500"
+  },
+  {
+    "ident": "AAU",
+    "type": "VOR",
+    "lat": 19.86108,
+    "lon": 75.40525,
+    "alt": 43000,
+    "spd": "1800"
+  },
+  {
+    "ident": "ASOGA",
+    "type": "WPT",
+    "lat": 19.5425,
+    "lon": 76.83222,
+    "alt": "45000",
+    "spd": "1800"
+  },
+  {
+    "ident": "BEVSU",
+    "type": "WPT",
+    "lat": 19.44694,
+    "lon": 77.25917,
+    "alt": "45000",
+    "spd": "1800"
+  },
+  {
+    "ident": "NUSRU",
+    "type": "WPT",
+    "lat": 19.29528,
+    "lon": 77.92278,
+    "alt": "45000",
+    "spd": "1800"
+  },
+  {
+    "ident": "BUSBO",
+    "type": "WPT",
+    "lat": 19.24944,
+    "lon": 78.125,
+    "alt": "45000",
+    "spd": "1800"
+  },
+  {
+    "ident": "MEPIP",
+    "type": "WPT",
+    "lat": 18.52917,
+    "lon": 80.58056,
+    "alt": "45000",
+    "spd": "1800"
+  },
+  {
+    "ident": "MEPOK",
+    "type": "WPT",
+    "lat": 18.07028,
+    "lon": 81.99833,
+    "alt": "45000",
+    "spd": "1800"
+  },
+  {
+    "ident": "VVZ",
+    "type": "VOR",
+    "lat": 17.66883,
+    "lon": 83.25286,
+    "alt": 43000,
+    "spd": "1800"
+  },
+  {
+    "ident": "POTAS",
+    "type": "WPT",
+    "lat": 17.5,
+    "lon": 83.92083,
+    "alt": 43000,
+    "spd": "1500"
+  },
+  {
+    "ident": "OLSOR",
+    "type": "WPT",
+    "lat": 17.35833,
+    "lon": 84.5,
+    "alt": 43000,
+    "spd": "1500"
+  },
+  {
+    "ident": "DOGEM",
+    "type": "WPT",
+    "lat": 17.16778,
+    "lon": 85.30611,
+    "alt": 43000,
+    "spd": "1500"
+  },
+  {
+    "ident": "URKOK",
+    "type": "WPT",
+    "lat": 16.73667,
+    "lon": 87.15167,
+    "alt": 43000,
+    "spd": "1500"
+  },
+  {
+    "ident": "LEBIS",
+    "type": "WPT",
+    "lat": 16.22694,
+    "lon": 89.2875,
+    "alt": 43000,
+    "spd": "1500"
+  },
+  {
+    "ident": "MABUR",
+    "type": "WPT",
+    "lat": 16.01667,
+    "lon": 90.16833,
+    "alt": 43000,
+    "spd": "1500"
+  },
+  {
+    "ident": "RINDA",
+    "type": "WPT",
+    "lat": 15.58333,
+    "lon": 92,
+    "alt": 43000,
+    "spd": "1500"
+  },
+  {
+    "ident": "SADUS",
+    "type": "WPT",
+    "lat": 15.42806,
+    "lon": 92.63111,
+    "alt": 43000,
+    "spd": "1500"
+  },
+  {
+    "ident": "DWI",
+    "type": "VOR",
+    "lat": 14.10056,
+    "lon": 98.2068,
+    "alt": 43000,
+    "spd": "1500"
+  },
+  {
+    "ident": "PUMOR",
+    "type": "WPT",
+    "lat": 14.23899,
+    "lon": 98.72996,
+    "alt": 43000,
+    "spd": "1200"
+  },
+  {
+    "ident": "T_O_D",
+    "type": "FIX",
+    "lat": 14.27399,
+    "lon": 98.86261,
+    "alt": 43000,
+    "spd": "1000"
+  },
+  {
+    "ident": "MIGAR",
+    "type": "WPT",
+    "lat": 14.30625,
+    "lon": 98.98519,
+    "alt": 41100,
+    "spd": "900"
+  },
+  {
+    "ident": "IBETO",
+    "type": "WPT",
+    "lat": 14.17671,
+    "lon": 99.49602,
+    "alt": 32900,
+    "spd": "800"
+  },
+  {
+    "ident": "WILLA",
+    "type": "WPT",
+    "lat": 14.40472,
+    "lon": 100.05982,
+    "alt": 23200,
+    "spd": "600"
+  },
+  {
+    "ident": "BAROK",
+    "type": "WPT",
+    "lat": 14.37175,
+    "lon": 100.19184,
+    "alt": 21100,
+    "spd": "600"
+  },
+  {
+    "ident": "BS510",
+    "type": "WPT",
+    "lat": 14.33488,
+    "lon": 100.33912,
+    "alt": 18700,
+    "spd": "500"
+  },
+  {
+    "ident": "INVEK",
+    "type": "WPT",
+    "lat": 14.29896,
+    "lon": 100.4822,
+    "alt": 16300,
+    "spd": "500"
+  },
+  {
+    "ident": "BS508",
+    "type": "WPT",
+    "lat": 14.25029,
+    "lon": 100.67549,
+    "alt": 13100,
+    "spd": "500"
+  },
+  {
+    "ident": "BS506",
+    "type": "WPT",
+    "lat": 14.0727,
+    "lon": 100.62877,
+    "alt": 10100,
+    "spd": "390"
+  },
+  {
+    "ident": "BS504",
+    "type": "WPT",
+    "lat": 13.99261,
+    "lon": 100.60773,
+    "alt": 8800,
+    "spd": "300"
+  },
+  {
+    "ident": "BS502",
+    "type": "WPT",
+    "lat": 13.96231,
+    "lon": 100.72358,
+    "alt": 6900,
+    "spd": "300"
+  },
+  {
+    "ident": "WALTZ",
+    "type": "WPT",
+    "lat": 14.04334,
+    "lon": 100.74506,
+    "alt": 5600,
+    "spd": "200"
+  },
+  {
+    "ident": "VTBS",
+    "type": "DST",
+    "lat": 13.69171,
+    "lon": 100.76103,
+    "alt": 0,
+    "spd": "0",
+    "heading": 194
+  }
+]V
