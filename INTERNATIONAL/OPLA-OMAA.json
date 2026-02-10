@@ -1,1 +1,186 @@
-[{"ident":"OPLA","type":"DPT","lat":31.50641,"lon":74.4043,"alt":0,"heading":1},{"ident":"LA401","type":"WPT","lat":31.52222,"lon":74.17222,"alt":21200},{"ident":"ALATA","type":"WPT","lat":31.34944,"lon":73.955,"alt":27400},{"ident":"T_O_C","type":"FIX","lat":30.70095,"lon":73.09343,"alt":43100},{"ident":"BIBUN","type":"WPT","lat":30.20111,"lon":72.44222,"alt":43100},{"ident":"MIMAL","type":"WPT","lat":29.87056,"lon":72.16889,"alt":43100},{"ident":"MURLI","type":"WPT","lat":29.29528,"lon":71.42306,"alt":43100},{"ident":"RK","type":"VOR","lat":28.36565,"lon":70.27315,"alt":43100},{"ident":"SK","type":"NDB","lat":27.72229,"lon":68.79612,"alt":43100},{"ident":"IDEBA","type":"WPT","lat":27.45833,"lon":67.22722,"alt":43100},{"ident":"BIREX","type":"WPT","lat":27.27333,"lon":66.04333,"alt":43100},{"ident":"ADGUL","type":"WPT","lat":26,"lon":63.07222,"alt":43100},{"ident":"TAPDO","type":"WPT","lat":24.4,"lon":61.33333,"alt":43100},{"ident":"VUSET","type":"WPT","lat":23.92778,"lon":59.13667,"alt":43100},{"ident":"MIXAM","type":"WPT","lat":23.69417,"lon":57.92306,"alt":43100},{"ident":"VELOD","type":"WPT","lat":23.76972,"lon":57.57639,"alt":43100},{"ident":"T_O_D","type":"FIX","lat":23.99278,"lon":56.52976,"alt":43100},{"ident":"PAXIM","type":"WPT","lat":24.04583,"lon":56.27528,"alt":38300},{"ident":"ITRAX","type":"WPT","lat":24.21333,"lon":55.79694,"alt":28700},{"ident":"VAVIM","type":"WPT","lat":24.25975,"lon":55.60636,"alt":25000},{"ident":"ROVOS","type":"WPT","lat":24.30694,"lon":55.36194,"alt":20200},{"ident":"MERPU","type":"WPT","lat":24.05425,"lon":55.03389,"alt":12000},{"ident":"BOSIG","type":"WPT","lat":24.10564,"lon":54.96208,"alt":10300},{"ident":"AA520","type":"WPT","lat":24.17156,"lon":55.01808,"alt":8600},{"ident":"ITREN","type":"WPT","lat":24.20633,"lon":54.96947,"alt":7500},{"ident":"OMAA","type":"DST","lat":24.4217,"lon":54.66718,"alt":0,"heading":308}]
+[
+  {
+    "ident": "OPLA",
+    "type": "DPT",
+    "lat": 31.50641,
+    "lon": 74.4043,
+    "alt": 0,
+    "heading": 1
+  },
+  {
+    "ident": "LA401",
+    "type": "WPT",
+    "lat": 31.52222,
+    "lon": 74.17222,
+    "alt": 21200
+  },
+  {
+    "ident": "ALATA",
+    "type": "WPT",
+    "lat": 31.34944,
+    "lon": 73.955,
+    "alt": 27400
+  },
+  {
+    "ident": "T_O_C",
+    "type": "FIX",
+    "lat": 30.70095,
+    "lon": 73.09343,
+    "alt": 43100
+  },
+  {
+    "ident": "BIBUN",
+    "type": "WPT",
+    "lat": 30.20111,
+    "lon": 72.44222,
+    "alt": 43100
+  },
+  {
+    "ident": "MIMAL",
+    "type": "WPT",
+    "lat": 29.87056,
+    "lon": 72.16889,
+    "alt": 43100
+  },
+  {
+    "ident": "MURLI",
+    "type": "WPT",
+    "lat": 29.29528,
+    "lon": 71.42306,
+    "alt": 43100
+  },
+  {
+    "ident": "RK",
+    "type": "VOR",
+    "lat": 28.36565,
+    "lon": 70.27315,
+    "alt": 43100
+  },
+  {
+    "ident": "SK",
+    "type": "NDB",
+    "lat": 27.72229,
+    "lon": 68.79612,
+    "alt": 43100
+  },
+  {
+    "ident": "IDEBA",
+    "type": "WPT",
+    "lat": 27.45833,
+    "lon": 67.22722,
+    "alt": 43100
+  },
+  {
+    "ident": "BIREX",
+    "type": "WPT",
+    "lat": 27.27333,
+    "lon": 66.04333,
+    "alt": 43100
+  },
+  {
+    "ident": "ADGUL",
+    "type": "WPT",
+    "lat": 26,
+    "lon": 63.07222,
+    "alt": 43100
+  },
+  {
+    "ident": "TAPDO",
+    "type": "WPT",
+    "lat": 24.4,
+    "lon": 61.33333,
+    "alt": 43100
+  },
+  {
+    "ident": "VUSET",
+    "type": "WPT",
+    "lat": 23.92778,
+    "lon": 59.13667,
+    "alt": 43100
+  },
+  {
+    "ident": "MIXAM",
+    "type": "WPT",
+    "lat": 23.69417,
+    "lon": 57.92306,
+    "alt": 43100
+  },
+  {
+    "ident": "VELOD",
+    "type": "WPT",
+    "lat": 23.76972,
+    "lon": 57.57639,
+    "alt": 43100
+  },
+  {
+    "ident": "T_O_D",
+    "type": "FIX",
+    "lat": 23.99278,
+    "lon": 56.52976,
+    "alt": 43100
+  },
+  {
+    "ident": "PAXIM",
+    "type": "WPT",
+    "lat": 24.04583,
+    "lon": 56.27528,
+    "alt": 38300
+  },
+  {
+    "ident": "ITRAX",
+    "type": "WPT",
+    "lat": 24.21333,
+    "lon": 55.79694,
+    "alt": 28700
+  },
+  {
+    "ident": "VAVIM",
+    "type": "WPT",
+    "lat": 24.25975,
+    "lon": 55.60636,
+    "alt": 25000
+  },
+  {
+    "ident": "ROVOS",
+    "type": "WPT",
+    "lat": 24.30694,
+    "lon": 55.36194,
+    "alt": 20200
+  },
+  {
+    "ident": "MERPU",
+    "type": "WPT",
+    "lat": 24.05425,
+    "lon": 55.03389,
+    "alt": 12000
+  },
+  {
+    "ident": "BOSIG",
+    "type": "WPT",
+    "lat": 24.10564,
+    "lon": 54.96208,
+    "alt": 10300
+  },
+  {
+    "ident": "AA520",
+    "type": "WPT",
+    "lat": 24.17156,
+    "lon": 55.01808,
+    "alt": 8600
+  },
+  {
+    "ident": "ITREN",
+    "type": "WPT",
+    "lat": 24.20633,
+    "lon": 54.96947,
+    "alt": 7500
+  },
+  {
+    "ident": "OMAA",
+    "type": "DST",
+    "lat": 24.4217,
+    "lon": 54.66718,
+    "alt": 0,
+    "heading": 308
+  }
+]
