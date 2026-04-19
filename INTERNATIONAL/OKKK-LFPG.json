@@ -1,1 +1,235 @@
-[{"ident":"OKKK","type":"DPT","lat":29.2126,"lon":47.99859,"alt":0,"heading":335},{"ident":"SOBAB","type":"WPT","lat":29.36158,"lon":47.89707,"alt":5100},{"ident":"TULGO","type":"WPT","lat":29.4408,"lon":48.0655,"alt":10400},{"ident":"TASMI","type":"WPT","lat":30.02222,"lon":47.91806,"alt":21500},{"ident":"GADSI","type":"WPT","lat":30.56611,"lon":47.18778,"alt":30200},{"ident":"ALPET","type":"WPT","lat":31.20528,"lon":46.31222,"alt":36400},{"ident":"T_O_C","type":"FIX","lat":31.77261,"lon":45.51915,"alt":41400},{"ident":"MUTLO","type":"WPT","lat":32.17194,"lon":44.95083,"alt":41400},{"ident":"LOVEK","type":"WPT","lat":32.36889,"lon":44.66694,"alt":41400},{"ident":"DELMI","type":"WPT","lat":33.32167,"lon":43.22444,"alt":41400},{"ident":"ELEXI","type":"WPT","lat":34.69167,"lon":41.15,"alt":41400},{"ident":"GAZ","type":"VOR","lat":36.95153,"lon":37.47294,"alt":41400},{"ident":"ERHAN","type":"WPT","lat":38.52389,"lon":35.22889,"alt":41400},{"ident":"KISLA","type":"WPT","lat":39.11,"lon":34.33333,"alt":41400},{"ident":"YAVRU","type":"WPT","lat":40.58222,"lon":31.83278,"alt":41400},{"ident":"RIXEN","type":"WPT","lat":42.08222,"lon":28.76611,"alt":41400},{"ident":"BGS","type":"VOR","lat":42.58717,"lon":27.53797,"alt":41400},{"ident":"OTPER","type":"WPT","lat":43.04333,"lon":25.53,"alt":41400},{"ident":"GOGAR","type":"WPT","lat":43.38889,"lon":23.92111,"alt":41400},{"ident":"ERDOM","type":"WPT","lat":43.5175,"lon":23.28917,"alt":41400},{"ident":"UTEKA","type":"WPT","lat":43.91222,"lon":22.39222,"alt":41400},{"ident":"TUVAR","type":"WPT","lat":45.12667,"lon":19.0775,"alt":41400},{"ident":"BIRGI","type":"WPT","lat":47.34778,"lon":11.92389,"alt":41400},{"ident":"NORIN","type":"WPT","lat":47.3866,"lon":11.4023,"alt":41400},{"ident":"GAPTO","type":"WPT","lat":47.46858,"lon":10.75943,"alt":41400},{"ident":"BEMKI","type":"WPT","lat":47.55939,"lon":10.30558,"alt":41400},{"ident":"EPL","type":"VOR","lat":48.31783,"lon":6.05942,"alt":41400},{"ident":"T_O_D","type":"FIX","lat":48.2968,"lon":5.25874,"alt":41400},{"ident":"NANOP","type":"WPT","lat":48.26194,"lon":4.23944,"alt":27500},{"ident":"FF301","type":"WPT","lat":48.3475,"lon":4.08361,"alt":24800},{"ident":"URELO","type":"WPT","lat":48.53883,"lon":3.73203,"alt":18700},{"ident":"OKIPA","type":"WPT","lat":48.61131,"lon":3.5635,"alt":15900},{"ident":"LFPG","type":"DST","lat":49.02472,"lon":2.52489,"alt":0,"heading":85}]
+[
+  {
+    "ident": "OKKK",
+    "type": "DPT",
+    "lat": 29.2126,
+    "lon": 47.99859,
+    "alt": 0,
+    "heading": 335
+  },
+  {
+    "ident": "SOBAB",
+    "type": "WPT",
+    "lat": 29.36158,
+    "lon": 47.89707,
+    "alt": 5100
+  },
+  {
+    "ident": "TULGO",
+    "type": "WPT",
+    "lat": 29.4408,
+    "lon": 48.0655,
+    "alt": 10400
+  },
+  {
+    "ident": "TASMI",
+    "type": "WPT",
+    "lat": 30.02222,
+    "lon": 47.91806,
+    "alt": 21500
+  },
+  {
+    "ident": "GADSI",
+    "type": "WPT",
+    "lat": 30.56611,
+    "lon": 47.18778,
+    "alt": 30200
+  },
+  {
+    "ident": "ALPET",
+    "type": "WPT",
+    "lat": 31.20528,
+    "lon": 46.31222,
+    "alt": 36400
+  },
+  {
+    "ident": "T_O_C",
+    "type": "FIX",
+    "lat": 31.77261,
+    "lon": 45.51915,
+    "alt": 41400
+  },
+  {
+    "ident": "MUTLO",
+    "type": "WPT",
+    "lat": 32.17194,
+    "lon": 44.95083,
+    "alt": 41400
+  },
+  {
+    "ident": "LOVEK",
+    "type": "WPT",
+    "lat": 32.36889,
+    "lon": 44.66694,
+    "alt": 41400
+  },
+  {
+    "ident": "DELMI",
+    "type": "WPT",
+    "lat": 33.32167,
+    "lon": 43.22444,
+    "alt": 41400
+  },
+  {
+    "ident": "ELEXI",
+    "type": "WPT",
+    "lat": 34.69167,
+    "lon": 41.15,
+    "alt": 41400
+  },
+  {
+    "ident": "GAZ",
+    "type": "VOR",
+    "lat": 36.95153,
+    "lon": 37.47294,
+    "alt": 41400
+  },
+  {
+    "ident": "ERHAN",
+    "type": "WPT",
+    "lat": 38.52389,
+    "lon": 35.22889,
+    "alt": 41400
+  },
+  {
+    "ident": "KISLA",
+    "type": "WPT",
+    "lat": 39.11,
+    "lon": 34.33333,
+    "alt": 41400
+  },
+  {
+    "ident": "YAVRU",
+    "type": "WPT",
+    "lat": 40.58222,
+    "lon": 31.83278,
+    "alt": 41400
+  },
+  {
+    "ident": "RIXEN",
+    "type": "WPT",
+    "lat": 42.08222,
+    "lon": 28.76611,
+    "alt": 41400
+  },
+  {
+    "ident": "BGS",
+    "type": "VOR",
+    "lat": 42.58717,
+    "lon": 27.53797,
+    "alt": 41400
+  },
+  {
+    "ident": "OTPER",
+    "type": "WPT",
+    "lat": 43.04333,
+    "lon": 25.53,
+    "alt": 41400
+  },
+  {
+    "ident": "GOGAR",
+    "type": "WPT",
+    "lat": 43.38889,
+    "lon": 23.92111,
+    "alt": 41400
+  },
+  {
+    "ident": "ERDOM",
+    "type": "WPT",
+    "lat": 43.5175,
+    "lon": 23.28917,
+    "alt": 41400
+  },
+  {
+    "ident": "UTEKA",
+    "type": "WPT",
+    "lat": 43.91222,
+    "lon": 22.39222,
+    "alt": 41400
+  },
+  {
+    "ident": "TUVAR",
+    "type": "WPT",
+    "lat": 45.12667,
+    "lon": 19.0775,
+    "alt": 41400
+  },
+  {
+    "ident": "BIRGI",
+    "type": "WPT",
+    "lat": 47.34778,
+    "lon": 11.92389,
+    "alt": 41400
+  },
+  {
+    "ident": "NORIN",
+    "type": "WPT",
+    "lat": 47.3866,
+    "lon": 11.4023,
+    "alt": 41400
+  },
+  {
+    "ident": "GAPTO",
+    "type": "WPT",
+    "lat": 47.46858,
+    "lon": 10.75943,
+    "alt": 41400
+  },
+  {
+    "ident": "BEMKI",
+    "type": "WPT",
+    "lat": 47.55939,
+    "lon": 10.30558,
+    "alt": 41400
+  },
+  {
+    "ident": "EPL",
+    "type": "VOR",
+    "lat": 48.31783,
+    "lon": 6.05942,
+    "alt": 41400
+  },
+  {
+    "ident": "T_O_D",
+    "type": "FIX",
+    "lat": 48.2968,
+    "lon": 5.25874,
+    "alt": 41400
+  },
+  {
+    "ident": "NANOP",
+    "type": "WPT",
+    "lat": 48.26194,
+    "lon": 4.23944,
+    "alt": 27500
+  },
+  {
+    "ident": "FF301",
+    "type": "WPT",
+    "lat": 48.3475,
+    "lon": 4.08361,
+    "alt": 24800
+  },
+  {
+    "ident": "URELO",
+    "type": "WPT",
+    "lat": 48.53883,
+    "lon": 3.73203,
+    "alt": 18700
+  },
+  {
+    "ident": "OKIPA",
+    "type": "WPT",
+    "lat": 48.61131,
+    "lon": 3.5635,
+    "alt": 15900
+  },
+  {
+    "ident": "LFPG",
+    "type": "DST",
+    "lat": 49.02472,
+    "lon": 2.52489,
+    "alt": 0,
+    "heading": 85
+  }
+]
