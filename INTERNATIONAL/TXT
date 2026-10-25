@@ -1,5 +1,6 @@
-RELEASED NOTES
+# Released Notes
 
-1) OKKK- LFPG Kuwait - PARIS https://github.com/Yash22222/FSRS-JSONS/blob/main/INTERNATIONAL/OKKK-LFPG.json
-2) OMAA - VABB Abu Dhabi - Mumbai https://github.com/Yash22222/FSRS-JSONS/blob/main/INTERNATIONAL/OMAA-VABB.json
-3) 
+| No. | Airport Code | Route | Link |
+|------|-------------|--------|------|
+| 1 | OKKK-LFPG | OKKK → LFPG | [JSON](https://github.com/Yash22222/FSRS-JSONS/blob/main/INTERNATIONAL/OKKK-LFPG.json) |
+| 2 | OMAA-VABB | OMAA → VABB | [JSON](https://github.com/Yash22222/FSRS-JSONS/blob/main/INTERNATIONAL/OMAA-VABB.json) |
