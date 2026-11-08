@@ -12,3 +12,6 @@
 | 8 | VABB-WADD | Chhatrapati Shivaji Maharaj International Airport (Mumbai) → I Gusti Ngurah Rai International Airport (Bali) | [JSON](https://github.com/Yash22222/FSRS-JSONS/blob/main/INTERNATIONAL/VABB-WADD.json) |
 | 9 | VAPO-OMDB | Dabolim Airport (Goa) → Dubai International Airport | [JSON](https://github.com/Yash22222/FSRS-JSONS/blob/main/INTERNATIONAL/VAPO-OMDB.json) |
 | 10 | VHHH-PHNL | Hong Kong International Airport → Daniel K. Inouye International Airport (Honolulu) | [JSON](https://github.com/Yash22222/FSRS-JSONS/blob/main/INTERNATIONAL/VHHH-PHNL.json) |
+| 11 | WADD-YSSY | I Gusti Ngurah Rai International Airport (Bali) → Kingsford Smith International Airport (Sydney) | [JSON](https://github.com/Yash22222/FSRS-JSONS/blob/main/INTERNATIONAL/WADD-YSSY.json) |
+
+
