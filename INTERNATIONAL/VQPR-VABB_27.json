@@ -1,1 +1,207 @@
-[{"ident":"VQPR","type":"DPT","lat":27.41091,"lon":89.41984,"alt":0,"heading":150},{"ident":"BGD","type":"VOR","lat":26.68833,"lon":88.32611,"alt":27600},{"ident":"LOTPU","type":"WPT","lat":26.10139,"lon":87.94167,"alt":32100},{"ident":"KHR","type":"VOR","lat":25.61461,"lon":87.55533,"alt":35600},{"ident":"T_O_C","type":"FIX","lat":24.73366,"lon":86.92547,"alt":41400},{"ident":"DGH","type":"VOR","lat":24.44592,"lon":86.72208,"alt":41400},{"ident":"LASUB","type":"WPT","lat":24.255,"lon":86.625,"alt":41400},{"ident":"TEPAL","type":"WPT","lat":23.81167,"lon":86.43417,"alt":41400},{"ident":"MIDIL","type":"WPT","lat":23.64833,"lon":86.1425,"alt":41400},{"ident":"RRC","type":"VOR","lat":23.30864,"lon":85.32678,"alt":41400},{"ident":"DADSO","type":"WPT","lat":22.75278,"lon":84.57639,"alt":41400},{"ident":"KINKI","type":"WPT","lat":22.32167,"lon":83.92722,"alt":41400},{"ident":"OTABA","type":"WPT","lat":22.18417,"lon":83.32306,"alt":41400},{"ident":"NIPAD","type":"WPT","lat":21.87167,"lon":81.99806,"alt":41400},{"ident":"OPONI","type":"WPT","lat":21.78417,"lon":81.64,"alt":41400},{"ident":"DOSAT","type":"WPT","lat":21.6925,"lon":81.30667,"alt":41400},{"ident":"TEGIG","type":"WPT","lat":21.5025,"lon":80.59361,"alt":41400},{"ident":"NNP","type":"VOR","lat":21.08144,"lon":79.05631,"alt":41400},{"ident":"TAMID","type":"WPT","lat":20.68833,"lon":77.84889,"alt":41400},{"ident":"NINAT","type":"WPT","lat":20.54667,"lon":77.41556,"alt":41400},{"ident":"DUBOX","type":"WPT","lat":20.37083,"lon":76.83222,"alt":41400},{"ident":"AAU","type":"VOR","lat":19.86108,"lon":75.40525,"alt":41400},{"ident":"T_O_D","type":"FIX","lat":19.61463,"lon":74.57867,"alt":41400},{"ident":"OPAKA","type":"WPT","lat":19.60583,"lon":74.54944,"alt":40900},{"ident":"EMRAK","type":"WPT","lat":19.42056,"lon":73.87111,"alt":30700},{"ident":"EMROS","type":"WPT","lat":19.2122,"lon":73.14292,"alt":19700},{"ident":"MB376","type":"WPT","lat":19.21391,"lon":72.80729,"alt":14800},{"ident":"ENBON","type":"WPT","lat":19.2151,"lon":72.33474,"alt":7900},{"ident":"VABB","type":"DST","lat":19.08846,"lon":72.84925,"alt":0,"heading":90}]
+[
+  {
+    "ident": "VQPR",
+    "type": "DPT",
+    "lat": 27.41091,
+    "lon": 89.41984,
+    "alt": 0,
+    "heading": 150
+  },
+  {
+    "ident": "BGD",
+    "type": "VOR",
+    "lat": 26.68833,
+    "lon": 88.32611,
+    "alt": 27600
+  },
+  {
+    "ident": "LOTPU",
+    "type": "WPT",
+    "lat": 26.10139,
+    "lon": 87.94167,
+    "alt": 32100
+  },
+  {
+    "ident": "KHR",
+    "type": "VOR",
+    "lat": 25.61461,
+    "lon": 87.55533,
+    "alt": 35600
+  },
+  {
+    "ident": "T_O_C",
+    "type": "FIX",
+    "lat": 24.73366,
+    "lon": 86.92547,
+    "alt": 41400
+  },
+  {
+    "ident": "DGH",
+    "type": "VOR",
+    "lat": 24.44592,
+    "lon": 86.72208,
+    "alt": 41400
+  },
+  {
+    "ident": "LASUB",
+    "type": "WPT",
+    "lat": 24.255,
+    "lon": 86.625,
+    "alt": 41400
+  },
+  {
+    "ident": "TEPAL",
+    "type": "WPT",
+    "lat": 23.81167,
+    "lon": 86.43417,
+    "alt": 41400
+  },
+  {
+    "ident": "MIDIL",
+    "type": "WPT",
+    "lat": 23.64833,
+    "lon": 86.1425,
+    "alt": 41400
+  },
+  {
+    "ident": "RRC",
+    "type": "VOR",
+    "lat": 23.30864,
+    "lon": 85.32678,
+    "alt": 41400
+  },
+  {
+    "ident": "DADSO",
+    "type": "WPT",
+    "lat": 22.75278,
+    "lon": 84.57639,
+    "alt": 41400
+  },
+  {
+    "ident": "KINKI",
+    "type": "WPT",
+    "lat": 22.32167,
+    "lon": 83.92722,
+    "alt": 41400
+  },
+  {
+    "ident": "OTABA",
+    "type": "WPT",
+    "lat": 22.18417,
+    "lon": 83.32306,
+    "alt": 41400
+  },
+  {
+    "ident": "NIPAD",
+    "type": "WPT",
+    "lat": 21.87167,
+    "lon": 81.99806,
+    "alt": 41400
+  },
+  {
+    "ident": "OPONI",
+    "type": "WPT",
+    "lat": 21.78417,
+    "lon": 81.64,
+    "alt": 41400
+  },
+  {
+    "ident": "DOSAT",
+    "type": "WPT",
+    "lat": 21.6925,
+    "lon": 81.30667,
+    "alt": 41400
+  },
+  {
+    "ident": "TEGIG",
+    "type": "WPT",
+    "lat": 21.5025,
+    "lon": 80.59361,
+    "alt": 41400
+  },
+  {
+    "ident": "NNP",
+    "type": "VOR",
+    "lat": 21.08144,
+    "lon": 79.05631,
+    "alt": 41400
+  },
+  {
+    "ident": "TAMID",
+    "type": "WPT",
+    "lat": 20.68833,
+    "lon": 77.84889,
+    "alt": 41400
+  },
+  {
+    "ident": "NINAT",
+    "type": "WPT",
+    "lat": 20.54667,
+    "lon": 77.41556,
+    "alt": 41400
+  },
+  {
+    "ident": "DUBOX",
+    "type": "WPT",
+    "lat": 20.37083,
+    "lon": 76.83222,
+    "alt": 41400
+  },
+  {
+    "ident": "AAU",
+    "type": "VOR",
+    "lat": 19.86108,
+    "lon": 75.40525,
+    "alt": 41400
+  },
+  {
+    "ident": "T_O_D",
+    "type": "FIX",
+    "lat": 19.61463,
+    "lon": 74.57867,
+    "alt": 41400
+  },
+  {
+    "ident": "OPAKA",
+    "type": "WPT",
+    "lat": 19.60583,
+    "lon": 74.54944,
+    "alt": 40900
+  },
+  {
+    "ident": "EMRAK",
+    "type": "WPT",
+    "lat": 19.42056,
+    "lon": 73.87111,
+    "alt": 30700
+  },
+  {
+    "ident": "EMROS",
+    "type": "WPT",
+    "lat": 19.2122,
+    "lon": 73.14292,
+    "alt": 19700
+  },
+  {
+    "ident": "MB376",
+    "type": "WPT",
+    "lat": 19.21391,
+    "lon": 72.80729,
+    "alt": 14800
+  },
+  {
+    "ident": "ENBON",
+    "type": "WPT",
+    "lat": 19.2151,
+    "lon": 72.33474,
+    "alt": 7900
+  },
+  {
+    "ident": "VABB",
+    "type": "DST",
+    "lat": 19.08846,
+    "lon": 72.84925,
+    "alt": 0,
+    "heading": 90
+  }
+]
